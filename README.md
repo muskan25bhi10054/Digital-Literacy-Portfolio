@@ -92,4 +92,20 @@ Don'ts
 Effective digital communication is a cornerstone of professional success, especially for a Digital Ambassador. During my research, I reflected on a hypothetical scenario where a student sent an informal, aggressive email to a professor regarding a low grade. The lack of a clear subject line and a respectful greeting led to a breakdown in communication, causing the professor to view the student as unprofessional and making it much harder to resolve the grade issue. This taught me that digital communication lacks the tone of voice and body language found in face-to-face talks, making it easy for messages to be misinterpreted. By using the "humanized" but structured approach seen in my drafts above, I can ensure my intent is clear and my professional reputation remains intact. Moving forward, I will always double-check my subject lines and greetings to ensure they set a respectful tone for the entire conversation.
 
 
+# Task 5: Cybercrime #
+# Part A – Cybercrime Case Study
+Crime Type: UPI (Unified Payments Interface) / Online Payment Fraud
+Description of the Crime:
+UPI fraud is a deceptive financial crime where attackers exploit the "Request Money" or QR code feature of payment apps (like GPay, PhonePe, or Paytm) to trick users into authorizing a debit from their own accounts. Unlike technical hacking, this relies on "Social Engineering" manipulating the victim's psychology to bypass security.
+
+Step-by-Step Execution:
+-The Initial Contact: The attacker finds a victim on a marketplace (like OLX) or social media. They express interest in "buying" an item or offer a "prize/refund."
+-The Deception: The attacker claims they are sending money but instead sends a "Collect Request" or a fake QR code.
+-The Manipulative Instruction: The attacker calls the victim and tells them, "To receive the payment, you just need to scan this code and enter your UPI PIN."
+-The Unauthorized Debit: Because the victim believes they are receiving money, they enter their PIN. In reality, the PIN is only used to authorize a payment outgoing.
+-The Disappearance: Once the PIN is entered, the money is instantly transferred to the attacker's "mule" account, and the attacker blocks the victim.
+
+Targets and Consequences:
+While anyone can be a target, college students and small-scale online sellers are frequently hit due to high digital activity. The consequences go beyond immediate financial loss; victims often face significant emotional stress and a loss of trust in digital systems, which can hinder their academic and professional digital growth.
+
 
