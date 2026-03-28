@@ -44,7 +44,7 @@ Practicing on HackerRank prepares me for technical interviews and competitive pr
 
 
 # Task 4: Draft a professional Email & Etiquette Guide #
-Part A: Professional Email Drafts
+# Part A: Professional Email Drafts
 
 # Email 1: Requesting an Assignment Extension
 Subject: Extension Request: [Assignment Name]
@@ -62,7 +62,9 @@ Thank you very much for your time and for considering my request.
 Warm regards,
 
 [Student’s Name]
+
 [Student’s Registration Number]
+
 [Student’s Branch]
 
 # Email 2: Internship Inquiry
@@ -83,6 +85,7 @@ Thank you for your time and consideration. I look forward to hearing from you.
 Best regards,
 
 [Student's Name]
+
 [Student's Phone Number / LinkedIn Link]
 
 # Part B: Social Media Do's and Don'ts
