@@ -18,7 +18,9 @@ Thank you very much for your time and for considering my request.
 Warm regards,
 
 [Student’s Name]
+
 [Student’s Registration Number]
+
 [Student’s Branch]
 
 
@@ -42,6 +44,7 @@ Thank you for your time and consideration. I look forward to hearing from you.
 Best regards,
 
 [Student's Name]
+
 [Student's Phone Number / LinkedIn Link]
 
 
